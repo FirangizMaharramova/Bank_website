@@ -1,0 +1,408 @@
+.color{
+    background-color: #052e74;
+    height: 53px;
+    margin-bottom: -10px;}
+
+ .nav{
+    background-color: #032154;
+    height: 70px;
+
+ }
+ .qeydiyyat{
+    margin-left: 460px;
+    width:100px;
+
+ }
+ .bash:hover{
+    opacity: 0.5s;
+    color: blue;
+ }
+ .bash{
+    color: white;
+    margin-left: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+ }
+ .navbar{
+    background-color:rgb(217, 215, 215) ;
+ }
+ .slogan{
+    margin-top: -250px;
+    margin-left: 50px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+ }
+.rounded{
+       
+    width: 400px;
+    height: 400px;
+margin-top: 52px;
+margin-left: 700px;
+}
+.dropdown{
+    color: white;
+  margin-left:100px;
+}
+.line{
+    color: black;
+}
+.sari{
+    color: #f2db18;
+    font-weight: 600;
+}
+.mb3{
+    font-weight: 900;
+}
+.visa{
+    margin-top: 70px;
+
+    
+}
+.text{
+    margin-top: 70px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    color:    rgb(28, 4, 127) ;
+
+
+}
+.part1{
+    width: 400px;
+    height: 200px;
+    margin-top: 70px;
+    margin-left: 110px;
+   
+
+}
+.part2{
+    margin-top: 130px;
+    margin-left: 120px;
+  
+}
+
+
+.Valyuta{color:rgb(221, 210, 0);} 
+
+.col{color:rgb(221, 210, 0);
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;}
+    .Valyutakonv{
+        color: #200867;
+        
+        font-size: 3vmin;
+
+
+    }
+    .card{
+        width: 500px;
+        height: 50px;
+    }
+    .cardbody{
+        margin-top:10px;
+        margin-left:10px;
+     
+    
+    }
+    .d{
+        margin-top: -30px;
+             margin-left: 420px;
+         }
+         .tarifler{
+            margin-top: 130px;
+            margin-left: 25px;
+             color:  rgb(14, 6, 84);
+        }
+        .tarif{
+            margin-top:40px;
+            margin-left: 5px;
+        }
+        .row1{color: white;
+            font-family: 'Times New Roman', Times, serif;
+          margin-left: 13%;
+          
+            margin-top: 80px;
+          background-color:rgb(27, 48, 209) ;
+         width: 74%;
+         height: 700px;
+         border-bottom-left-radius: 5%;
+         border-bottom-right-radius: 5%;
+         border-top-left-radius: 5%;
+         border-top-right-radius:5% ;
+        
+           }
+           .footer{
+            width:100%;
+            height: 120px;
+            margin-top: 80px;
+           }
+
+/*.dropdown{
+    margin-left:200px;
+    color: white;
+    padding: 0px;
+    margin: 0%;
+
+}
+.boshluq{
+width: 100%;
+height:80px;
+background-color:rgb(217, 215, 215);
+
+
+
+}
+.rounded1{
+
+    width: 400px;
+    height: 200px;
+
+    margin-left: 550px;
+margin-top: -60px;
+}
+.btn {background-color: #052e74;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+
+.color1{
+    background-color:  #032154;
+/*    height: 70px;
+    width: 100%; 
+
+.btn-group{
+    height: 70px;
+    width:700px;
+    margin-left: 200px;
+    outline-color:#032154;
+}
+.color2{
+    background-color:#032154;
+    height: 70px;
+   font-size:3vmin;
+    font-weight: 600;
+    padding: 15px;
+ 
+
+  
+  
+}
+.button{
+    background-color: white;
+    color:#032154 ;
+    font-size: 3vmin;
+    margin-right: 200px;
+    font-weight: 600;
+    width: 180px;   
+ 
+
+}
+
+        .line{
+            color: rgb(221, 210, 0);
+            width: 50px;
+            margin-bottom: 100px;
+            margin-left: 400px;
+        }
+    .rounded{
+       
+        width: 400px;
+        height: 400px;
+    margin-top: 52px;
+    margin-left: 700px;
+    }
+    .img-fluid{
+        width: 600px;
+        height: 400px;
+        margin-top:50px ;
+    }
+.top-bar0{
+    margin-right: 700px;
+}
+
+
+.visa{
+    display:flex;
+    margin-left: 150px;
+
+}
+
+    .text{
+        margin-left: 750px;
+        margin-top: -300px;
+        margin-right: 100px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 800;
+    }
+    .h1{
+        font-size: 6vmin;
+        color: #200867;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 500;
+    }
+    .h5{margin-top: 20px;
+        font-size: 3vmin;
+        color: #200867;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .h6{margin-top: 20px;
+        color:#200867;
+        font-family: 'Times New Roman', Times, serif;
+       font-weight: 500;
+    }
+
+    .part1{
+        width: 400px;
+        height: 200px;
+        margin-left: 350px;
+        margin-top: 200px;
+ 
+    }
+    .part2{
+        margin-top:-370px;
+        margin-left:420px;
+    }
+    
+    .Valyuta{color:rgb(221, 210, 0);} 
+
+    .col{color:rgb(221, 210, 0);
+        font-family: 'Raleway', sans-serif;
+        font-weight: 900;}
+
+
+    .table{margin-top: 50px;
+       color: #200867;
+       font-weight: 500;
+        }
+
+    .Valyutakonv{
+        color: #200867;
+        margin-top: 205px;
+        font-size: 3vmin;
+
+
+    }
+    .card{
+        width: 400px;
+        height: 50px;
+    }
+    .cardbody{
+        margin-top:5px;
+        margin-left:30px;
+     
+    
+    }
+    .d{
+   margin-top: -25px;
+        margin-left: 320px;
+    }
+    .tarifler{
+        margin-top: 130px;
+        margin-left: 200px;
+        color:  rgb(14, 6, 84);
+    }
+    .tarif{
+        margin-top:40px;
+    }
+   .containerBase{
+    margin-left: 190px;
+    margin-right:250px ;
+    margin-top: 60px;
+    width: 75%;
+    height: 750px;
+    background-color:rgb(27, 48, 209);
+    border-bottom-right-radius:5%;
+    border-bottom-left-radius:5%;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+    font-family:'Times New Roman', Times, serif;
+   
+}
+
+   
+   .tab{
+   color: white;
+  
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 1,2vmin;
+    font-weight: -50px;
+   }
+   .top-bar1{
+    margin-top: 70px;
+   }
+   .footer{
+    width: 100%;
+ 
+   }
+   .container1{
+    background-image:url(footer_bg.jpg);
+    margin-top: 100px;
+
+    height: 300px;
+   }
+   .icon{
+    margin-top: 400px;
+   }
+.icons{
+  position: relative;
+    border-radius:50px;
+ margin-right:1200px;
+ margin-top: 20px;
+    display: inline-block;
+    color: #716c80;
+    background-color: #fff;
+    box-shadow: 0 7px 18px 0 rgb(2 56 132 / 15%);
+    font-size: 14px;
+    font-weight: 500;
+    padding: 12px 60px 12px 60px;
+    text-decoration: none;
+    transition: 0.5s;
+    box-sizing: border-box !important;
+    }
+   
+   .row1{color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 200px;
+    margin-top: 50px;
+  background-color:rgb(27, 48, 209) ;
+ width: 1100px;
+ height: 700px;
+ border-bottom-left-radius: 5%;
+ border-bottom-right-radius: 5%;
+ border-top-left-radius: 5%;
+ border-top-right-radius:5% ;
+
+   }
+   
+
+   .f{
+    border-radius: 15px;
+   }
+   
+    
+
+  /* @media (max-width: 700px)
+   {.visa{
+    width: 400px;
+    margin-left: 10px;
+  
+   }  .text{
+    display: none;
+   }
+    .part1{
+margin-left: 30px;
+width: 200px;
+
+      
+    }
+    .part2{
+margin-left: 210px;
+     
+     
+    
+    }
+
+   }
